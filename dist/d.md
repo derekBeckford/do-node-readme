@@ -1,7 +1,7 @@
 # d
 
   
-    ![badge](https://img.shields.io/npm/l/npm)
+   ![badge](https://img.shields.io/npm/l/npm)
     
   
   ## Table of Contents 
