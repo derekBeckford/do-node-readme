@@ -37,12 +37,6 @@
   💻
   
   To make it simple and easy to easily generate a markdown file
-
-  ##  License 
-  ![badge](https://img.shields.io/badge/license-ISC-brightgreen) </br>
-  📎
-  
-  Do Node README is covered by the ISC license.
   
   ## Contributing 
   👪
