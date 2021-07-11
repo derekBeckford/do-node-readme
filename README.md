@@ -21,10 +21,7 @@
   
  https://drive.google.com/file/d/17XoSQ-lo8TfHfmW_zPgkPBEHj9-sjVGZ/view
  
-
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/17XoSQ-lo8TfHfmW_zPgkPBEHj9-sjVGZ/view" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+![Alt Text](https://github.com/derekBeckford/do-node-readme/blob/main/src/READMEGenerator.gif)
 
 
 
