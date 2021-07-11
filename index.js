@@ -24,7 +24,7 @@ const questions = () => {
     {
       type: "input",
       name: "description",
-      message: "White a brief description of your project:",
+      message: "Write a brief description of your project:",
       validate: (projectDescription) => {
         if (projectDescription) {
           return true;
@@ -84,7 +84,7 @@ const questions = () => {
       type: "input",
       name: "future",
       message:
-        "What are some future improvements that can be made from this project?",
+        "What are some future improvements that can be made to this project?",
     },
     {
       type: "input",
