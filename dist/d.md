@@ -26,7 +26,7 @@
 
   ## License
     
-    ![badge](https://img.shields.io/npm/l/npm)
+  ![badge](https://img.shields.io/npm/l/npm)
     
   
   ## Contributing
