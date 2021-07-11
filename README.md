@@ -1,6 +1,9 @@
 # Do Node README
 
-  ![badge](https://img.shields.io/badge/license-ISC-brightgreen) </br>
+![badge](https://img.shields.io/github/repo-size/derekBeckford/do-node-readme)
+![badge](https://img.shields.io/tokei/lines/github/derekBeckford/do-node-readme)
+![badge](https://img.shields.io/github/languages/top/derekBeckford/do-node-readme)
+![badge](https://img.shields.io/github/last-commit/derekBeckford/do-node-readme)
 
   ## Table of Contents 
 
