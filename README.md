@@ -5,7 +5,7 @@
 ![badge](https://img.shields.io/github/languages/top/derekBeckford/do-node-readme)
 ![badge](https://img.shields.io/github/last-commit/derekBeckford/do-node-readme)
 
-![image](https://user-images.githubusercontent.com/82908627/129504655-ca6ce6fd-58cc-4992-b8aa-994cfa0041d4.png)
+
 
 
   ## Table of Contents 
